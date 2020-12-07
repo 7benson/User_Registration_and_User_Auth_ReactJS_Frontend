@@ -1,0 +1,10 @@
+*{
+    margin: 0;
+}
+.Login{
+    background-color: white!important;
+}
+.invalid-feedback{
+    color: rgb(248, 0, 0);
+    margin-top: 0;
+}
